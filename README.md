@@ -7,8 +7,11 @@ Các định dạng sách sẽ được hỗ trợ:
 - TEXT: Dạng văn bản thuần, có thể đọc được trên gần như mọi thiết bị.
 - HTML: Đọc trực tiếp trên trình duyệt.
 - EPUB: Dạng sách điện tử.
-- MOBI: Định dạng sách điện tử cho máy đọc sách Kindle.
+- MOBI, PRC, AZW3: Định dạng sách điện tử cho máy đọc sách Kindle.
 - PDF.
+- TVE-4u: Cho các bản sách điện tử được làm bởi các thành viên TVE-4u (Đặc biệt là dự án SỐ HÓA 1000 QUYỂN SÁCH VIỆT MỘT THỜI VANG BÓNG).
+
+*Toàn bộ các bản sách điện tử (EPUB, MOBI, PRC, AZW3) được làm bởi các thành viên của vnthuquan cũng như TVE-4u.*
 
 ## Tác giả & Tác phẩm
 
@@ -39,8 +42,7 @@ Các định dạng sách sẽ được hỗ trợ:
 - Truyền kỳ mạn lục - [EPUB](tac-gia/nguyen-duwx/truyen-ki-man-luc.epub)
 
 ### Lê Quý Đôn (1726 - 1784)
-- Đại Việt thông sử
-- Phủ biên tạp lục
+- Đại Việt thông sử - [PRC](tac-gia/le-quy-don/dvts.prc)
 
 ### [Nguyễn Du](tac-gia/nguyen-du/README.md) (1765 - 1820)
 
@@ -67,6 +69,27 @@ Các định dạng sách sẽ được hỗ trợ:
 
 ### Hải Thượng Lãn Ông
 - Thượng Kinh Ký Sự - [EPUB](tac-gia/hai-thuong-lan-ong/thuong-kinh-ky-su.epub)
+
+### Trần Trọng Kim (1883 – 1953)
+- Luân lý giáo khoa thư (1916) - [EPUB](tac-gia/tran-trong-kim/luan-ly-giao-khoa-thu.epub)
+- Nho giáo - [EPUB](tac-gia/tran-trong-kim/nho-giao.epub)
+- Vương Dương Minh (1934) - [EPUB](tac-gia/tran-trong-kim/vuong-duong-minh.epub) -- [TVE-4u](https://tve-4u.org/threads/vuong-duong-minh-tra%CC%80n-tro%CC%A3ng-kim-1000qsv1tvb-0360.31056/)
+- Phật Lục (1940) - [EPUB](tac-gia/tran-trong-kim/phat-luc.epub) -- [TVE-4u](https://tve-4u.org/threads/phat-luc-tra%CC%80n-tro%CC%A3ng-kim-1000qsv1tvb-0449.33470/)
+- Việt Nam văn phạm (cùng Bùi Kỷ, Phạm Duy Khiêm) (1941) - [EPUB](tac-gia/tran-trong-kim/viet-nam-van-pham.epub)
+
+### Khái Hưng (1896 - 1947)
+
+- Anh phải sống (cùng Nhất Linh, 1934) - [EPUB](tac-gia/khai-hung/anh-phai-song.epub)
+- Hồn bướm mơ tiên (1933) - [EPUB](tac-gia/khai-hung/hon-buom-mo-tien.epub)
+- Đời mưa gió (cùng Nhất Linh, 1933) - [EPUB](tac-gia/khai-hung/doi-mua-gio.epub)
+- Nửa chừng xuân (1934) - [MOBI](tac-gia/khai-hung/nua-chung-xuan.mobi)
+- Trống mái (1936) - [EPUB](tac-gia/khai-hung/trong-mai.epub)
+- Gia đình (1936) - [EPUB](tac-gia/khai-hung/gia-dinh.epub)
+- Tiêu Sơn tráng sĩ (1937) - [EPUB](tac-gia/khai-hung/tieu-son-trang-si.epub)
+- Hạnh (1938) - [EPUB](tac-gia/khai-hung/hanh.epub)
+- Đẹp (1940) - [EPUB](tac-gia/khai-hung/dep.epub)
+- Băn khoăn - [EPUB](tac-gia/khai-hung/ban-khoan.epub)
+- Thừa tự - [EPUB](tac-gia/khai-hung/thua-tu.epub)
 
 ### Ngô Tất Tố (1894-1954)
 
@@ -138,4 +161,4 @@ Các định dạng sách sẽ được hỗ trợ:
 
 ## Cảm ơn
 
-Tất cả các tệp EPUB đều được lấy trực tiếp từ [vnthuquan](https://archive.org/download/vnthuquan/) (Trên Archive.org) và [TVE-4U](https://tve-4u.org/).
+Tất cả các tệp EPUB đều được lấy trực tiếp từ [vnthuquan](https://archive.org/download/vnthuquan/) (Trên Archive.org) và được chỉnh sửa, hoàn thiện cũng như chia sẻ bởi các thành viên [TVE-4U](https://tve-4u.org/).
