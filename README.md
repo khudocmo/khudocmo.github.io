@@ -1,6 +1,8 @@
 # Khu đọc mở
 
-Danh sách các tác phẩm văn học Việt Nam thuộc Public Domain. Sách của tất cả các tác giả Việt Nam mất trước năm 1975 sẽ xuất hiện trong đây.
+(Chắc là) tất cả các tác phẩm Việt Nam thuộc Public Domain (Phạm vi công cộng) ở trang này.
+
+Danh sách các tác phẩm Việt Nam thuộc Public Domain. Sách của tất cả các tác giả Việt Nam mất trước năm 1975 sẽ xuất hiện trong đây.
 
 Các định dạng sách sẽ được hỗ trợ:
 
@@ -70,6 +72,10 @@ Các định dạng sách sẽ được hỗ trợ:
 ### Hải Thượng Lãn Ông
 - Thượng Kinh Ký Sự - [EPUB](tac-gia/hai-thuong-lan-ong/thuong-kinh-ky-su.epub)
 
+### Cao Bá Quát (1808 - 1/5/1855)
+
+Toàn bộ các bài thơ của Cao Bá Quát được lưu ở [Thi viện](https://www.thivien.net/Cao-B%c3%a1-Qu%c3%a1t/author-2eyz08Vw3mwjAHFJik43sA).
+
 ### Trần Trọng Kim (1883 – 1953)
 - Luân lý giáo khoa thư (1916) - [EPUB](tac-gia/tran-trong-kim/luan-ly-giao-khoa-thu.epub)
 - Nho giáo - [EPUB](tac-gia/tran-trong-kim/nho-giao.epub)
@@ -98,6 +104,10 @@ Các định dạng sách sẽ được hỗ trợ:
 - Việc làng - [EPUB](tac-gia/ngo-tat-to/viec-lang.epub)
 - Kinh dịch - [EPUB](tac-gia/ngo-tat-to/kinh-dich.epub) (Bản dịch Kinh Dịch của Ngô Tất Tố)
 
+### Phạm Quỳnh (1892 - 1945)
+
+- Pháp du hành trình nhật ký (1922) - [PRC](tac-gia/pham-quynh/phap-du-hanh-trinh-nhat-ky.prc)
+
 ### Vũ Trọng Phụng (1912-1939)
 
 - Giông tố - [EPUB](tac-gia/vu-trong-phung/giong-to.epub)
@@ -111,6 +121,16 @@ Các định dạng sách sẽ được hỗ trợ:
 - Lấy nhau vì tình - [EPUB](tac-gia/vu-trong-phung/lay-nhau-vi-tinh.epub)
 - Dứt tình - [EPUB](tac-gia/vu-trong-phung/dut-tinh.epub)
 - Lục xì - [EPUB](tac-gia/vu-trong-phung/luc-xi.epub)
+
+### Hàn Mặc Tử (1912–1940)
+
+Toàn bộ các bài thơ của Hàn Mặc Tử được lưu ở [Thi viện](https://www.thivien.net/H%C3%A0n-M%E1%BA%B7c-T%E1%BB%AD/author-mz8hO4-xm_bQYO5dbc_rLg).
+
+### Hoàng Đạo
+
+- Trước vành móng ngựa - [EPUB](tac-gia/hoang-dao/truoc-vanh-mong-ngua.epub)
+- Bùn lầy nước đọng - [EPUB](tac-gia/hoang-dao/bun-lay-nuoc-dong.epub)
+- Con đường sáng - [EPUB](tac-gia/hoang-dao/con-duong-sang.epub)
 
 ### Nam Cao (1915-1951)
 
@@ -146,11 +166,17 @@ Các định dạng sách sẽ được hỗ trợ:
 - Đôi bạn - [EPUB](tac-gia/nhat-linh/doi-ban.epub)
 - Nghèo - [EPUB](tac-gia/nhat-linh/ngheo.epub)
 
+### Nguyễn Huy Tưởng (1912 – 1960)
+
+- Đêm hội Long Trì - [EPUB](tac-gia/nguyen-huy-tuong/dem-hoi-long-tri.epub)
+- An Tư công chúa (tiểu thuyết, 1944) - [EPUB](tac-gia/nguyen-huy-tuong/an-tu.epub)
+- Lá cờ thêu sáu chữ vàng - [EPUB](tac-gia/nguyen-huy-tuong/la-co-theu-sau-chu-vang.epub)
+- Lũy hoa - [EPUB](tac-gia/nguyen-huy-tuong/luy-hoa.epub)
+- Sống mãi với Thủ Đô - [EPUB](tac-gia/nguyen-huy-tuong/song-mai-voi-thu-do.epub)
+
 ### Nguyễn Ái Quốc (1890 - 1969)
 
 - Bản án chế độ thực dân Pháp - [EPUB](tac-gia/nguyen-ai-quoc/ban-an-che-do-thuc-dan-phap.epub)
-- Đường Kách mệnh
-- Nhật ký trong tù (Ngục trung nhật ký)
 
 ### Nguyễn Công Hoan (1903 - 1977)
 (Sẽ thuộc Phạm vi công cộng vào ngày 01/01/2027)
