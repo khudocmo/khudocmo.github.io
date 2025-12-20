@@ -1,5 +1,7 @@
 # Khu đọc mở
 
+**LƯU Ý:** Dự án đang trong quá trình tái cấu trúc. Vậy nên, có thể có một số đường dẫn tải sách điện tử sẽ không hoạt động. Mọi người chờ chút nha :>
+
 (Chắc là) tất cả các tác phẩm Việt Nam thuộc Public Domain (Phạm vi công cộng) ở trang này.
 
 Danh sách các tác phẩm Việt Nam thuộc Public Domain. Sách của tất cả các tác giả Việt Nam mất trước năm 1975 sẽ xuất hiện trong đây.
@@ -121,10 +123,6 @@ Toàn bộ các bài thơ của Cao Bá Quát được lưu ở [Thi viện](htt
 - Lấy nhau vì tình - [EPUB](tac-gia/vu-trong-phung/lay-nhau-vi-tinh.epub)
 - Dứt tình - [EPUB](tac-gia/vu-trong-phung/dut-tinh.epub)
 - Lục xì - [EPUB](tac-gia/vu-trong-phung/luc-xi.epub)
-
-### Hàn Mặc Tử (1912–1940)
-
-Toàn bộ các bài thơ của Hàn Mặc Tử được lưu ở [Thi viện](https://www.thivien.net/H%C3%A0n-M%E1%BA%B7c-T%E1%BB%AD/author-mz8hO4-xm_bQYO5dbc_rLg).
 
 ### Hoàng Đạo
 
