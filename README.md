@@ -19,65 +19,6 @@ Các định dạng sách sẽ được hỗ trợ:
 
 ## Tác giả & Tác phẩm
 
-### [Lý Thường Kiệt](tac-gia/ly-thuong-kiet/README.md) (1019 - 1127)
-
-- Nam quốc sơn hà - [Text](tac-gia/ly-thuong-kiet/nam-quoc-son-ha.md)
-
-### [Trần Quốc Tuấn](tac-gia/tran-quoc-tuan/README.md) (1228 - 1300)
-
-- Hịch tướng sĩ - [EPUB](tac-gia/tran-quoc-tuan/hich-tuong-si.epub) 
-- Binh thư yếu lược - [PDF](https://dilib.vn/pdf/viewer.php?id=1ba434)
-
-### Chu Văn An (1292 - 1370)
-
-- Tứ thư thuyết ước
-- Tiều ẩn thi tập
-
-### [Nguyễn Trãi](tac-gia/nguyen-trai/README.md) (1380 - 1442)
-
-- Bình Ngô đại cáo: [HTML](https://vi.wikisource.org/wiki/B%C3%ACnh_Ng%C3%B4_%C4%91%E1%BA%A1i_c%C3%A1o) -- [EPUB](tac-gia/nguyen-trai/binh-ngo-dai-cao.epub) 
-- Quốc âm thi tập - [HTML](https://nomfoundation.org/nom-tools/QATT/QATT?uiLang=vn)
-- Dư địa chí
-- [Quân trung từ mệnh tập](https://www.quansuvn.net/index.php/topic,20403.0.html)
-- Chí Linh Sơn Phú - [EPUB](tac-gia/nguyen-trai/chi-linh-son-phu.epub)
-- Gia huấn ca - [EPUB](tac-gia/nguyen-trai/gia-huan-ca.epub)
-
-### [Nguyễn Dữ](tac-gia/nguyen-duwx/README.md) (Thế kỉ XVI)
-- Truyền kỳ mạn lục - [EPUB](tac-gia/nguyen-duwx/truyen-ki-man-luc.epub)
-
-### Lê Quý Đôn (1726 - 1784)
-- Đại Việt thông sử - [PRC](tac-gia/le-quy-don/dvts.prc)
-
-### [Nguyễn Du](tac-gia/nguyen-du/README.md) (1765 - 1820)
-
-- Truyện Kiều - [HTML](https://www.thivien.net/Nguy%E1%BB%85n-Du/Truy%E1%BB%87n-Ki%E1%BB%81u/group-uAY7gIaARbh2b4DCVporPQ) -- [EPUB](tac-gia/nguyen-du/truyen-kieu.epub)
-- Văn Tế Thập Loại Chúng Sinh - [EPUB](tac-gia/nguyen-du/van-te-thap-loai-chung-sinh.epub)
-- Bắc hành tạp lục
-
-### [Nguyễn Đình Chiểu](tac-gia/nguyen-dinh-chieu/README.md) (1822 - 1888)
-
-- Lục Vân Tiên - [EPUB](tac-gia/nguyen-dinh-chieu/luc-van-tien.epub)
-- Văn tế nghĩa sĩ Cần Giuộc - [EPUB](tac-gia/nguyen-dinh-chieu/van-te-nghia-si-can-giuoc.epub)
-- Dương Từ Hà Mậu - [EPUB](tac-gia/nguyen-dinh-chieu/duong-tu-ha-mau.epub)
-- Ngư Tiều Y thuật Vấn Đáp - [EPUB](tac-gia/nguyen-dinh-chieu/ngu-tieu-y-thuat-van-dap.epub)
-
-### Đặng Trần Côn
-- Chinh phụ ngâm - [EPUB](tac-gia/dang-tran-con/chinh-phu-ngam.epub)
-- Chinh phụ ngâm khúc - [EPUB](tac-gia/dang-tran-con/chinh-phu-ngam-khuc.epub)
-
-### Ngô gia văn phái
-- Hoàng Lê nhất thống chí - [EPUB](tac-gia/ngo-gia-van-phai/hoang-le-nhat-thong-chi.epub)
-
-### Trương Hán Siêu
-- Bạch Đằng giang phú - [EPUB](tac-gia/truong-han-sieu/bach-dang-giang-phu.epub)
-
-### Hải Thượng Lãn Ông
-- Thượng Kinh Ký Sự - [EPUB](tac-gia/hai-thuong-lan-ong/thuong-kinh-ky-su.epub)
-
-### Cao Bá Quát (1808 - 1/5/1855)
-
-Toàn bộ các bài thơ của Cao Bá Quát được lưu ở [Thi viện](https://www.thivien.net/Cao-B%c3%a1-Qu%c3%a1t/author-2eyz08Vw3mwjAHFJik43sA).
-
 ### Trần Trọng Kim (1883 – 1953)
 - Luân lý giáo khoa thư (1916) - [EPUB](tac-gia/tran-trong-kim/luan-ly-giao-khoa-thu.epub)
 - Nho giáo - [EPUB](tac-gia/tran-trong-kim/nho-giao.epub)
@@ -105,10 +46,6 @@ Toàn bộ các bài thơ của Cao Bá Quát được lưu ở [Thi viện](htt
 - Lều chõng - [EPUB](tac-gia/ngo-tat-to/leu-chong.epub)
 - Việc làng - [EPUB](tac-gia/ngo-tat-to/viec-lang.epub)
 - Kinh dịch - [EPUB](tac-gia/ngo-tat-to/kinh-dich.epub) (Bản dịch Kinh Dịch của Ngô Tất Tố)
-
-### Phạm Quỳnh (1892 - 1945)
-
-- Pháp du hành trình nhật ký (1922) - [PRC](tac-gia/pham-quynh/phap-du-hanh-trinh-nhat-ky.prc)
 
 ### Vũ Trọng Phụng (1912-1939)
 
@@ -162,7 +99,6 @@ Toàn bộ các bài thơ của Cao Bá Quát được lưu ở [Thi viện](htt
 - Lạnh lùng - [EPUB](tac-gia/nhat-linh/lanh-lung.epub)
 - Bướm trắng - [EPUB](tac-gia/nhat-linh/buom-trang.epub)
 - Đôi bạn - [EPUB](tac-gia/nhat-linh/doi-ban.epub)
-- Nghèo - [EPUB](tac-gia/nhat-linh/ngheo.epub)
 
 ### Nguyễn Huy Tưởng (1912 – 1960)
 
