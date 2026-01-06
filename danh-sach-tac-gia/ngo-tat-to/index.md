@@ -10,6 +10,6 @@ title: Ngô Tất Tố - Khu đọc mở
 
 ### Danh sách tác phẩm
 
-1.  [Tắt đèn](/ngo-tat-to_tat-den/) (tiểu thuyết, báo Việt nữ, 1937)
-2.  [Lều chõng](/ngo-tat-to_leu-chong/) (phóng sự tiểu thuyết, báo Thời vụ, 1939-1944)
-3.  [Việc làng](/ngo-tat-to_viec-lang/) (phóng sự, báo Hà Nội tân văn, 1940-1941)
+1.  [Tắt đèn](/tac-pham/ngo-tat-to_tat-den/) (tiểu thuyết, báo Việt nữ, 1937)
+2.  [Lều chõng](/tac-pham/ngo-tat-to_leu-chong/) (phóng sự tiểu thuyết, báo Thời vụ, 1939-1944)
+3.  [Việc làng](/tac-pham/ngo-tat-to_viec-lang/) (phóng sự, báo Hà Nội tân văn, 1940-1941)

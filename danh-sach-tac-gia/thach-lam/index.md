@@ -10,8 +10,8 @@ title: Thạch Lam - Khu đọc mở
 
 ### Danh sách tác phẩm
 
-1.  [Gió đầu mùa](/thach-lam_gio-dau-mua/)
-2.  [Nắng trong vườn](/thach-lam_nang-trong-vuon/)
-3.  [Theo giòng](/thach-lam_theo-giong/)
-4.  [Sợi tóc](/thach-lam_soi-toc/)
-5.  [Hà Nội băm sáu phố phường](/thach-lam_ha-noi-36-pho-phuong/)
+1.  [Gió đầu mùa](/tac-pham/thach-lam_gio-dau-mua/)
+2.  [Nắng trong vườn](/tac-pham/thach-lam_nang-trong-vuon/)
+3.  [Theo giòng](/tac-pham/thach-lam_theo-giong/)
+4.  [Sợi tóc](/tac-pham/thach-lam_soi-toc/)
+5.  [Hà Nội băm sáu phố phường](/tac-pham/thach-lam_ha-noi-36-pho-phuong/)

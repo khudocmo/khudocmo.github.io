@@ -17,4 +17,4 @@ title: Danh sách tác giả - Khu đọc mở
 
 ### Một số trang đặc biệt
 
-- [Nhất Linh & Khái Hưng](/nhat-linh-va-khai-hung/)
+- [Nhất Linh & Khái Hưng](./nhat-linh-va-khai-hung/)

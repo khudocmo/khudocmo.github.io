@@ -10,8 +10,8 @@ title: Nam Cao - Khu đọc mở
 
 ### Danh sách tác phẩm
 
-1.  [Sống mòn](/nam-cao_song-mon/) (viết xong 1944, xuất bản 1956), Nhà xuất bản Văn Nghệ.
-2.  [Chí Phèo](/nam-cao_chi-pheo/) (1941)
-3.  [Đời thừa](/nam-cao_doi-thua/) (1943)
-4.  [Truyện người hàng xóm](/nam-cao_truyen-nguoi-hang-xom/)
+1.  [Sống mòn](/tac-pham/nam-cao_song-mon/) (viết xong 1944, xuất bản 1956), Nhà xuất bản Văn Nghệ.
+2.  [Chí Phèo](/tac-pham/nam-cao_chi-pheo/) (1941)
+3.  [Đời thừa](/tac-pham/nam-cao_doi-thua/) (1943)
+4.  [Truyện người hàng xóm](/tac-pham/nam-cao_truyen-nguoi-hang-xom/)
 5.  [Tổng hợp Truyện ngắn Nam Cao (Trước và sau cách mạng).](/truyen-ngan-nam-cao/)

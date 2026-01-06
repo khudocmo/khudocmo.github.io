@@ -11,9 +11,9 @@ title: Khái Hưng - Khu đọc mở
 
 ### Danh sách tác phẩm
 
-1.  [Hồn bướm mơ tiên](/khai-hung_hon-buom-mo-tien/) (1933)
-2.  [Nửa chừng xuân](/khai-hung_nua-chung-xuan/) (1934)
-3.  [Gia đình](/khai-hung_gia-dinh/) (1936)
-4.  [Tiêu Sơn tráng sĩ](/khai-hung_tieu-son-trang-si/) (1937)
-5.  [Hạnh](/khai-hung_hanh/) (1938)
-6.  [Đẹp](/khai-hung_dep/) (1940)
+1.  [Hồn bướm mơ tiên](/tac-pham/khai-hung_hon-buom-mo-tien/) (1933)
+2.  [Nửa chừng xuân](/tac-pham/khai-hung_nua-chung-xuan/) (1934)
+3.  [Gia đình](/tac-pham/khai-hung_gia-dinh/) (1936)
+4.  [Tiêu Sơn tráng sĩ](/tac-pham/khai-hung_tieu-son-trang-si/) (1937)
+5.  [Hạnh](/tac-pham/khai-hung_hanh/) (1938)
+6.  [Đẹp](/tac-pham/khai-hung_dep/) (1940)

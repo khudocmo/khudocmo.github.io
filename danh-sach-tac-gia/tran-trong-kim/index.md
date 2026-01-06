@@ -10,5 +10,5 @@ title: Trần Trọng Kim - Khu đọc mở
 
 ## Danh sách tác phẩm
 
-1.  [Nho giáo](/tran-trong-kim_nho-giao/) (3 tập từ 1930-32)
+1.  [Nho giáo](/tac-pham/tran-trong-kim_nho-giao/) (3 tập từ 1930-32)
 2.  Phật Lục (1940)

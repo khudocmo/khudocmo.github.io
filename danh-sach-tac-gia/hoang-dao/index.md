@@ -10,7 +10,7 @@ title: Hoàng Đạo - Khu đọc mở
 
 ### Danh sách tác phẩm
 
-1.  [Trước vành móng ngựa](/hoang-dao_truoc-vanh-mong-ngua/) (phóng sự, 1938)
-2.  [Bùn lầy nước đọng](/hoang-dao_bun-lay-nuoc-dong/) (luận thuyết, 1940)
-3.  [Con đường sáng](/hoang-dao_con-duong-sang/) (tiểu thuyết, cùng viết chung với Nhất Linh, 1940)
+1.  [Trước vành móng ngựa](/tac-pham/hoang-dao_truoc-vanh-mong-ngua/) (phóng sự, 1938)
+2.  [Bùn lầy nước đọng](/tac-pham/hoang-dao_bun-lay-nuoc-dong/) (luận thuyết, 1940)
+3.  [Con đường sáng](/tac-pham/hoang-dao_con-duong-sang/) (tiểu thuyết, cùng viết chung với Nhất Linh, 1940)
 4.  Tiếng đàn (tập truyện ngắn, 1941)

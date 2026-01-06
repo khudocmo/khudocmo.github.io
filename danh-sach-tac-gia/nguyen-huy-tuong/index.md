@@ -10,8 +10,8 @@ title: Nguyễn Huy Tưởng - Khu đọc mở
 
 ### Danh sách tác phẩm
 
-1.  [Đêm hội Long Trì](/nguyen-huy-tuong_dem-hoi-long-tri/) (1942)
-2.  [An Tư công chúa](/nguyen-huy-tuong_an-tu-cong-chua/) (1944)
-3.  [Sống mãi với Thủ Đô](/nguyen-huy-tuong_song-mai-voi-thu-do/) (1960)
-4.  [Lũy hoa](/nguyen-huy-tuong_luy-hoa/) (1960)
-5.  [Lá cờ thêu sáu chữ vàng](/nguyen-huy-tuong_la-co-theu-sau-chu-vang/) (1960)
+1.  [Đêm hội Long Trì](/tac-pham/nguyen-huy-tuong_dem-hoi-long-tri/) (1942)
+2.  [An Tư công chúa](/tac-pham/nguyen-huy-tuong_an-tu-cong-chua/) (1944)
+3.  [Sống mãi với Thủ Đô](/tac-pham/nguyen-huy-tuong_song-mai-voi-thu-do/) (1960)
+4.  [Lũy hoa](/tac-pham/nguyen-huy-tuong_luy-hoa/) (1960)
+5.  [Lá cờ thêu sáu chữ vàng](/tac-pham/nguyen-huy-tuong_la-co-theu-sau-chu-vang/) (1960)

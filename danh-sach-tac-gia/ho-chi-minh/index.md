@@ -10,6 +10,6 @@ title: Hồ Chí Minh - Khu đọc mở
 
 ### Danh sách tác phẩm
 
-1. [Bản án chế độ thực dân Pháp](/ho-chi-minh_ban-an-che-do-thuc-dan-phap/) (1925).
-2. [Sửa đổi lối làm việc](/ho-chi-minh_sua-doi-loi-lam-viec/) (1947).
-3. [Vừa đi đường vừa kể chuyện](/ho-chi-minh_vua-di-duong-vua-ke-chuyen/) (bút danh T. Lan). Trong cuốn sách này, Hồ Chí Minh hóa thân thành một cán bộ trong đoàn tùy tùng (T. Lan), đi công tác cùng với Hồ Chí Minh trong rừng núi Việt Bắc và được Hồ Chí Minh vui miệng kể cho nghe nhiều chuyện.
+1. [Bản án chế độ thực dân Pháp](/tac-pham/ho-chi-minh_ban-an-che-do-thuc-dan-phap/) (1925).
+2. [Sửa đổi lối làm việc](/tac-pham/ho-chi-minh_sua-doi-loi-lam-viec/) (1947).
+3. [Vừa đi đường vừa kể chuyện](/tac-pham/ho-chi-minh_vua-di-duong-vua-ke-chuyen/) (bút danh T. Lan). Trong cuốn sách này, Hồ Chí Minh hóa thân thành một cán bộ trong đoàn tùy tùng (T. Lan), đi công tác cùng với Hồ Chí Minh trong rừng núi Việt Bắc và được Hồ Chí Minh vui miệng kể cho nghe nhiều chuyện.
